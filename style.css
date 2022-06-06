@@ -1,0 +1,19 @@
+
+body {
+ background-image: url("https://www.myperfectcolor.com/repositories/images/colors/porter-paints-11784-3-warm-yellow-paint-color-match-2.jpg");
+  color: rgb(228, 228, 228);
+}
+
+select, input, button {
+  font-size: 30px;
+}
+
+div {
+  padding-top: 20px;
+}
+
+#center {
+  width:80%;
+  margin: auto;
+  text-align: center
+}
